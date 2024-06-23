@@ -70,4 +70,5 @@ This has been heavily shortened for this example.
 | `shared` | Whether or not this has been shared to you by someone else. |
 | `activeHours` | The length of this string represents how many hours of a day. For example, `111` = 3 hours. This will most likely be `111111111111111111111111` (24 hours). |
 | `activeDays` | The length of this strings represents how many days of a wekk. For example, `111` = 3 days. This will most likely be `1111111` (7 days). |
+
 *Most of this section has yet TBR & TBW.*
