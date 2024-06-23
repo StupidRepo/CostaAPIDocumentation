@@ -82,5 +82,4 @@ The card/membership ID (i.e `633780XXXXXXXXXXXXXXXX`).
 | `beansSequence` | Each type of bean collected towards your free drink. |
 | `isBeansEnabled` | Most likely `true` unless you've been f*cking about with their systems and have (*ahem*) BEAN restricted. Ha... ha... |
 | `permission*` | Self-explanatory. |
-
-*This section has yet to be **fully** researched.*
+*Most of this section has yet TBR & TBW.*
