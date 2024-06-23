@@ -3,7 +3,6 @@
 | ------ | --------- | ----------------------- |
 | `https://costa-platform.com/loyalty/v2/cards/:id` | `GET` | `Yes` |
 
-
 ## Description
 Fetch card details from an ID, for details such as:
 - Card Number
@@ -15,7 +14,7 @@ Fetch card details from an ID, for details such as:
 - `TBR` - Referral Bean - Beans rewarded from referring someone else to the app.
 
 ## Path Parameters
-### ID
+### `id`
 The card/membership ID (i.e `633780XXXXXXXXXXXXXXXX`).
 
 ## Example Response

@@ -3,7 +3,6 @@
 | ------ | --------- | ----------------------- |
 | `https://costa-platform.com/loyalty/v3/activeGames` | `GET` | `Yes` |
 
-
 ## Description
 *This section has yet TBR & yet TBW.*
 
