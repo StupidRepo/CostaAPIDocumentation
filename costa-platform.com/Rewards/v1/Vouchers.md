@@ -21,7 +21,7 @@ Rewards, like discounts and such. Some examples:
 
 The response is an array of objects, where each object is a coupon/voucher. Look below the codeblock for details on the Coupon/Voucher object.
 
-This has been heavily shortened for this example.
+This has been heavily shortened for this example. Usually this would respond with an array with about 3-4 Coupon/Voucher objects (depending on the `expiryDateFrom` query parameter), however it has been shortened to display only 1.
 ```json
 [{
 	"id": 000000000,
