@@ -19,6 +19,8 @@ Rewards, like discounts and such. Some examples:
 ## Example Response
 - Status Code: 200
 
+The response is an array of objects, where each object is a coupon/voucher. Look below the codeblock for details on the Coupon/Voucher object.
+
 This has been heavily shortened for this example.
 ```json
 [{

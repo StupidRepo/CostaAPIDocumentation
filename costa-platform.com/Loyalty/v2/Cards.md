@@ -20,6 +20,9 @@ The card/membership ID (i.e `633780XXXXXXXXXXXXXXXX`).
 
 ## Example Response
 - Status Code: 200
+
+The response is a Membership Card object. Look below the codeblock for details on the Membership Card object.
+
 ```json
 {
 	"id": "633780XXXXXXXXXXXXXXXX",
