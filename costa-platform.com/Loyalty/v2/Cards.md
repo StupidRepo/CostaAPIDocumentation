@@ -67,8 +67,20 @@ The card/membership ID (i.e `633780XXXXXXXXXXXXXXXX`).
 | `id` | The card's internal ID. |
 | `cardISO` | The ISO type of the card. Usually just `633780`. |
 | `serialNumber` | The SN of the card. |
-| `cardNumber` | The card number you may see on the *physical* card and the one that the QR code is generated from. |
+| `cardNumber` | This is the card number you may see on the *physical* card, and is also the number that the QR code is generated from. |
 | `givexNumber` | givex internal number. May be related to [`givex.com`](https://web.givex.com/). |
-| `status` | TBR. Most likely `active`. |
+| `status` | The status of this card. Most likely `active`. |
+| `description` | Description of what this card is for. Usually `Costa Pay`. Afaik, Costa Pay isn't used. |
+| `currency` | Card currency. `GBP`, `USD`, etc. |
+| `certificateBalance` | TBR. |
+| `pointsBalance` | Amount of points (a.k.a beans) on the card. As of June 2024, the maximum is `10` before it resets to `0`. *Did you know?: The maximum has changed multiple times, going from `6` to `8` and now `10`.* |
+| `pointsValue*` | How much the points are worth in the currency of the card. |
+| `type` | The type of this card. Costa started switching to digital cards instead of physical sometime around 2022/2023, so this is usually `digital`. |
+| `preferred` | Whether or not this is the preferred card on the account. Most likely `true`. |
+| `groups` | TBR. |
+| `loyaltyScheme` | TBR. Most likely ` `. |
+| `beansSequence` | Each type of bean collected towards your free drink. |
+| `isBeansEnabled` | Most likely `true` unless you've been f*cking about with their systems and have (*ahem*) BEAN restricted. Ha... ha... |
+| `permission*` | Self-explanatory. |
 
 *This section has yet to be **fully** researched.*
