@@ -4,6 +4,7 @@ Currently, I only have an Android phone so this documentation will be based on w
 
 # List
 | API                  | Documentation |
+| -------------------- | ------------- |
 | `costa-platform.com` | [`v1/*`](v1/) |
 
 # Contributors
