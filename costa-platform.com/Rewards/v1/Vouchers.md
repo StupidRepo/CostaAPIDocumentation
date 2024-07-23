@@ -53,7 +53,7 @@ This has been heavily shortened for this example. Usually this would respond wit
 | `id` | Internal ID for this coupon/voucher. |
 | `couponNumber` | Internal number for this coupon/voucher. |
 | `expiryDate` | ISO 8601 date of when this coupon/voucher is considered to be expired. |
-| `status` | The status of this coupon. Can be one of the following: `E` for `Expired`, `I` for `Active`, or `S` for `TBR - Could mean 'Special'?` |
+| `status` | The status of this coupon. See [StatusType](/types/StatusType.md). |
 | `couponType` | TBR. Most likely `U`. |
 | `useQuantity` | How many times this coupon/voucher can be used. |
 | `unlimitedUse` | Whether or not this coupon/voucher can be infinitely used. |
