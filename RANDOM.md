@@ -10,3 +10,8 @@ Default: DVAT
 - `D` - DVAT (don't ask what that means, I have no idea)
 - `B` - Birthday Cake
 - `A` - Auto Offer
+## `couponCategory`
+Default: Unknown Category
+- `R` - Rewards Category
+- `M` - Micro Rewards Category
+- `D` - Discounts Category
