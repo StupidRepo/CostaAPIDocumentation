@@ -1,5 +1,5 @@
 # Random
-Costa recently updated their API so I need to update this. For now, here's some things I found!
+Costa recently updated their API. I need to update this repo. For now, here's some things I found!
 
 # Coupon Things
 ## `couponType`
