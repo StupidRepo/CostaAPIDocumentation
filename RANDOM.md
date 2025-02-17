@@ -15,3 +15,12 @@ Default: Unknown Category
 - `R` - Rewards Category
 - `M` - Micro Rewards Category
 - `D` - Discounts Category
+## `state`
+Default: Unknown
+- `pending`
+
+- `active`
+- `used`
+
+- `expired`
+- `disabled`
